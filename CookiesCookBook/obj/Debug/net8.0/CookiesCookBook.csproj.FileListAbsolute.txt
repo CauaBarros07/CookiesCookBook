@@ -1,0 +1,14 @@
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\CookiesCookBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\CookiesCookBook.AssemblyInfoInputs.cache
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\CookiesCookBook.AssemblyInfo.cs
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\CookiesCookBook.csproj.CoreCompileInputs.cache
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\bin\Debug\net8.0\CookiesCookBook.exe
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\bin\Debug\net8.0\CookiesCookBook.deps.json
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\bin\Debug\net8.0\CookiesCookBook.runtimeconfig.json
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\bin\Debug\net8.0\CookiesCookBook.dll
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\bin\Debug\net8.0\CookiesCookBook.pdb
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\CookiesCookBook.dll
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\refint\CookiesCookBook.dll
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\CookiesCookBook.pdb
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\CookiesCookBook.genruntimeconfig.cache
+C:\Users\Caua\source\repos\TodoList\CookiesCookBook\obj\Debug\net8.0\ref\CookiesCookBook.dll
